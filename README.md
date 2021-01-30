@@ -17,9 +17,9 @@
 ```
 
 ##folders
-    - css
-        -/style.css
-    - js
-        -/script.js
-    - img
-        - logo.png
+- css
+  - /style.css
+- js
+  - /script.js
+- img
+  - logo.png
