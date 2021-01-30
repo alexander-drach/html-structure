@@ -1,5 +1,5 @@
 # html-structure
-##structure
+## structure
 ```html
 <!doctype html>
 <html lang="en">
@@ -16,7 +16,7 @@
 </html>
 ```
 
-##folders
+## folders
 - css
   - /style.css
 - js
